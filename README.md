@@ -6,7 +6,7 @@ Aqui mantenho um registro das minhas experiências em desenvolvimento de softwar
 
 ## Seções
 
-- IFTO
+- [IFTO](/ifto)
 - Outros cursos
 
 ## Posts Recentes
