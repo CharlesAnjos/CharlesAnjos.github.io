@@ -9,5 +9,3 @@ Aqui mantenho um registro das minhas experiências em desenvolvimento de softwar
 - [Projetos da minha Graduação (IFTO)](/ifto)
 - [Projetos Pessoais](/projetos_pessoais)
 - [Projetos Profissionais](/projetos_profissionais)
-
-## Posts Recentes
